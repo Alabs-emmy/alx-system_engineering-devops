@@ -13,4 +13,7 @@ the following scripts perfomrs the following function
 11. adds execution permission to all subdirectories of the current working directory for the owner,group and others user
 12. creates a directory with permision  751 in the working directory
 13. change group owner of the file hello to school
-
+14. changes the owner and group owner to vincent and staff respectively
+15. changes the owner and group owner of the symbolic link 
+16. changes the owner of the file "hello" that belongs to "guillaume" only to "betty"
+17. that plays a moview in the terminal
